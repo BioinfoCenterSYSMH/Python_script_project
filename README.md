@@ -8,7 +8,7 @@
 ```
 usage:
 
-python oneButtonToGseaFile.py --input [] --annotation [] --outputPrefix []
+python 001oneButtonToGseaFile.py --input [] --annotation [] --outputPrefix []
 
 optional arguments:
   -h, --help            show this help message and exit
