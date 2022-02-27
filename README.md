@@ -3,7 +3,7 @@
 
 * 要注意的是 input file 和 annotation file 的第一行都需要用 <span style="color:blue">#</span> 注释, 详见实例文件.
 
-* 由于编者的习惯, 将表达谱第一列的格式规定为 gene_name(gene_id)(gene_type), 这个在gtf文件中可以提取到的.
+* 由于编者的习惯, 将表达谱第一列的格式规定为 gene_name(ensg_id)(gene_type), 这个在gtf文件中可以提取到的.
 
 ```
 usage:
