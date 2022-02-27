@@ -21,7 +21,7 @@ optional arguments:
 ```
 
 
-> 002gzConvertToGgplotFormat.py computeMatrix工具得到的输出的压缩.gz矩阵文件结果整理成长表格形式
+> 002gzConvertToGgplotFormat.py  ***computeMatrix工具得到的输出的压缩.gz矩阵文件结果整理成长表格形式***
 * usage
 ```
 python 002gzConvertToGgplotFormat.py --input sample.gz --outputPrefix ... [option]
